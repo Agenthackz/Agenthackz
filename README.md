@@ -1,3 +1,5 @@
+"WORKS ONLY FOR LINUX"
+
 1. First of all, to run this tool we need to install "Python3" in system.
    
 3. Run the below command to Execute it:
